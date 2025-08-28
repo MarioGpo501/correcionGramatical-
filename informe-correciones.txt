@@ -1,0 +1,16 @@
+Los errores que se encontraron fueron en su mayoría gramaticales y 
+de ortografia. Por ejemplo, se escribió oy, en vez de hoy o fasil en vez 
+de fácil. 
+
+La herramienta que se uso para su corrección ortográfica fue 
+languagetool. Muy intuitive y fácil de usar.
+
+Otro ejemplo, podría ser este fragmento; 
+Oy es un dia muy especial para mi,asi que quiero kontarte algo.
+Su correcta escritura sería la siguiente sentencia:
+Hoy es un día muy especial para mí, así que quiero contarte algo.
+
+Algunas se aceptaron otras no, pero fueron por motivo de contexto 
+La interpretación del escritor al querer dar a entender una idea 
+de alguna forma, y la herramienta lo quiere cambiar, por eso algunas 
+sugerencias las rechace.
